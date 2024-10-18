@@ -53,6 +53,11 @@ button{
     font-size: 20px;
     font-weight:bolder ;
 }
+button:hover{
+    background-image:radial-gradient(rgb(178, 45, 178),purple);
+    border: 3px rgba(0, 0, 0, 0.947) solid;
+}
+
 #equal{
     position: relative;
     width: 60px;
